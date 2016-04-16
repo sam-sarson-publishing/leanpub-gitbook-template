@@ -20,3 +20,10 @@ Traditionally, this is the place where you should put your book summary. Instead
 3. On GitHub, add "leanpub" as a collaborator under the repository settings.
 5. To add new files, you need to edit "manuscript/Book.txt".
 6. To add a cover, you'll replace "images/title_page.jpg" with your file.
+
+## Important notes
+
+  * You need to write files with the .md extension for them to work for both platforms. 
+  * Be sure to update both TOC files (SUMMARY.md and manuscript/Book.txt) to make sure that both reflect new changes
+  * There are additional steps to take with Leanpub and GitBook, e.g., setting front matter and selling pages. 
+  * You can add "Leanpub" as a service to your repository to have it automatically generate a preview.
