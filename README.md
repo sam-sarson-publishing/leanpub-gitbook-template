@@ -1,6 +1,6 @@
 # Welcome!
 
-There are two sets of files contained within this repository to support both GitBook and LeanPub.
+I made this respository in order to facilitate publishing to both GitBook and LeanPub, free services that enable you to use version-control (e.g., git) while writing. There are two sets of files contained within this repository to support both GitBook and LeanPub.
 
 Traditionally, this is the place where you should put your book summary. Instead, I'm going to tell you how to set up syncing to both places. 
 
